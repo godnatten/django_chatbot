@@ -11,7 +11,7 @@ from .models import Chat
 #from django.utils import timezone
 
 
-openai_api_key = 'YOUR API KEY'
+openai_api_key = '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'
 openai.api_key = openai_api_key
 
 # Define condition types
